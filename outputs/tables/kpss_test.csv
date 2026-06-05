@@ -1,0 +1,19 @@
+variable,n_obs,kpss_stat,kpss_pvalue,used_lag,critical_1pct,critical_5pct,critical_10pct,stationary_kpss_5pct,warning
+fx_return,4020,0.12606329337144262,0.1,5,0.739,0.463,0.347,True,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+"
+vix_change,4020,0.009092244714543075,0.1,34,0.739,0.463,0.347,True,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+"
+us10y_change,4020,0.28291379551327644,0.1,8,0.739,0.463,0.347,True,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+"
+dxy_return,4020,0.08325055820728512,0.1,11,0.739,0.463,0.347,True,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+"
+oil_change,4020,0.045825335264505856,0.1,21,0.739,0.463,0.347,True,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+"
+vnindex_return,4020,0.09462954730790504,0.1,8,0.739,0.463,0.347,True,"The test statistic is outside of the range of p-values available in the
+look-up table. The actual p-value is greater than the p-value returned.
+"

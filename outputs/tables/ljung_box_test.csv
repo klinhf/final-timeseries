@@ -1,0 +1,4 @@
+Lag,lb_stat,lb_pvalue,Conclusion
+5,109.19069430892348,6.074574245666168e-22,Autocorrelation detected
+10,147.40951127796464,1.2708321921167155e-26,Autocorrelation detected
+20,181.74297649881865,4.424122978121988e-28,Autocorrelation detected

@@ -1,0 +1,3 @@
+model,available,beta_abs_below_0_999,nu_above_2_05,all_parameters_finite,audit_pass,error
+EGARCH-X signed lag1-t,True,True,True,True,True,
+EGARCH-X abs lag1-t,True,True,True,True,True,

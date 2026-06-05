@@ -1,0 +1,3 @@
+model,requested_target,estimated_target,target_transformation,n_obs_weekly,n_variables,lag,ordering,fit_status,var_is_stable,volatility_source
+weekly_recursive_svar_shocks_to_fx_return,fx_return,fx_return,weekly_level_return,729,6,1,vix_change -> us10y_change -> dxy_return -> oil_change -> vnindex_return -> fx_return,OK,True,
+weekly_recursive_svar_shocks_to_log_selected_cond_vol,log_selected_cond_vol,log_selected_cond_vol,weekly_log_volatility_level,729,6,1,vix_change -> us10y_change -> dxy_return -> oil_change -> vnindex_return -> log_selected_cond_vol,OK,True,"ARMA(4,5)-GJR-GARCH(1,1)-t"

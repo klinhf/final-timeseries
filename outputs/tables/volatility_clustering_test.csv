@@ -1,0 +1,7 @@
+Variable,Lag,lb_stat,lb_pvalue,Conclusion
+abs_return,5,1015.330068698891,2.883295697821847e-217,Volatility clustering detected
+abs_return,10,1495.364960022968,0.0,Volatility clustering detected
+abs_return,20,1694.2452679876224,0.0,Volatility clustering detected
+squared_return,5,49.09163385706709,2.125578158927526e-09,Volatility clustering detected
+squared_return,10,83.85413675356872,8.779624562479329e-14,Volatility clustering detected
+squared_return,20,90.6195776869014,5.7752365933130354e-11,Volatility clustering detected

@@ -1,0 +1,2 @@
+series,n_obs,arch_lags,arch_lm_stat,arch_lm_pvalue,arch_f_stat,arch_f_pvalue,arch_effects_5pct
+fx_return,4020,10,59.512449938099394,4.481521947934501e-09,6.024326979557999,3.862759065939084e-09,True

@@ -1,0 +1,40 @@
+model,parameter,estimate
+"GARCH(1,1)-t",omega,0.0009156428820751751
+"GARCH(1,1)-t",alpha[1],0.1
+"GARCH(1,1)-t",beta[1],0.88
+"GARCH(1,1)-t",nu,4.055126555994501
+"GJR-GARCH(1,1)-t",omega,0.00457821441037587
+"GJR-GARCH(1,1)-t",alpha[1],0.2
+"GJR-GARCH(1,1)-t",gamma[1],0.2
+"GJR-GARCH(1,1)-t",beta[1],0.6
+"GJR-GARCH(1,1)-t",nu,4.081524364611301
+"EGARCH(1,1)-t",omega,-0.02955762577884926
+"EGARCH(1,1)-t",alpha[1],0.39561235101142206
+"EGARCH(1,1)-t",gamma[1],-0.01983565492532014
+"EGARCH(1,1)-t",beta[1],0.971952249782257
+"EGARCH(1,1)-t",nu,2.67423194098348
+Custom EGARCH no-X-t,omega,-0.029483538913177038
+Custom EGARCH no-X-t,alpha,0.3957113535172045
+Custom EGARCH no-X-t,gamma,-0.01990767115508094
+Custom EGARCH no-X-t,beta,0.971947538019232
+Custom EGARCH no-X-t,nu,2.6736877971096393
+EGARCH-X signed lag1-t,omega,-0.01009267424971395
+EGARCH-X signed lag1-t,alpha,0.3917534080846441
+EGARCH-X signed lag1-t,gamma,-0.006687263831928544
+EGARCH-X signed lag1-t,beta,0.9762679527699467
+EGARCH-X signed lag1-t,delta_vix_change_lag1,0.034185550908505384
+EGARCH-X signed lag1-t,delta_us10y_change_lag1,-0.012236951503564823
+EGARCH-X signed lag1-t,delta_dxy_return_lag1,0.04554773983259812
+EGARCH-X signed lag1-t,delta_oil_change_lag1,-0.05344169113214842
+EGARCH-X signed lag1-t,delta_vnindex_return_lag1,0.006639279752537955
+EGARCH-X signed lag1-t,nu,2.659418184681481
+EGARCH-X abs lag1-t,omega,-0.15280820027805536
+EGARCH-X abs lag1-t,alpha,0.4670255794425213
+EGARCH-X abs lag1-t,gamma,-0.029357604088428475
+EGARCH-X abs lag1-t,beta,0.9565881700368893
+EGARCH-X abs lag1-t,delta_vix_change_lag1,-0.019868865834319606
+EGARCH-X abs lag1-t,delta_us10y_change_lag1,0.013987117534293625
+EGARCH-X abs lag1-t,delta_dxy_return_lag1,0.044000415705751784
+EGARCH-X abs lag1-t,delta_oil_change_lag1,0.017954361388589545
+EGARCH-X abs lag1-t,delta_vnindex_return_lag1,0.04965446426390979
+EGARCH-X abs lag1-t,nu,2.6885301646146886

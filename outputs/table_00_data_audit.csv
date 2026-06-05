@@ -1,0 +1,4 @@
+split,n_rows,date_start,date_end,is_sorted_ascending,duplicate_dates,missing_required_values,nonfinite_numeric_values,zero_fx_return_count,zero_fx_return_share,min_fx_return,max_fx_return
+train,3014,2010-01-06,2021-12-31,True,0,0,0,465,0.15428002654280026,-2.394219047748969,6.213883505915874
+validation,501,2022-01-03,2023-12-29,True,0,0,0,59,0.11776447105788423,-1.5356084352687205,1.1979149114624832
+test,504,2024-01-02,2025-12-31,True,0,0,0,60,0.11904761904761904,-0.8669265655871783,0.8817288513597532
